@@ -1,0 +1,37 @@
+C:\Users\wedson.silva\documents\visual studio 2010\Projects\EntityFramework6\EntityFramework6\bin\Debug\EntityFramework6.exe.config
+C:\Users\wedson.silva\documents\visual studio 2010\Projects\EntityFramework6\EntityFramework6\bin\Debug\EntityFramework6.exe
+C:\Users\wedson.silva\documents\visual studio 2010\Projects\EntityFramework6\EntityFramework6\bin\Debug\EntityFramework6.pdb
+C:\Users\wedson.silva\documents\visual studio 2010\Projects\EntityFramework6\EntityFramework6\bin\Debug\EntityFramework.dll
+C:\Users\wedson.silva\documents\visual studio 2010\Projects\EntityFramework6\EntityFramework6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wedson.silva\documents\visual studio 2010\Projects\EntityFramework6\EntityFramework6\bin\Debug\EntityFramework.xml
+C:\Users\wedson.silva\documents\visual studio 2010\Projects\EntityFramework6\EntityFramework6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wedson.silva\documents\visual studio 2010\Projects\EntityFramework6\EntityFramework6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wedson.silva\documents\visual studio 2010\Projects\EntityFramework6\EntityFramework6\obj\x86\Debug\EntityFramework6.exe
+C:\Users\wedson.silva\documents\visual studio 2010\Projects\EntityFramework6\EntityFramework6\obj\x86\Debug\EntityFramework6.pdb
+C:\Users\wedson.silva\documents\visual studio 2010\Projects\EntityFramework6\EntityFramework6\obj\x86\Debug\EntityFramework6.Migrations.Versao1.resources
+C:\Users\wedson.silva\documents\visual studio 2010\Projects\EntityFramework6\EntityFramework6\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\wedson.silva\documents\visual studio 2010\Projects\EntityFramework6\EntityFramework6\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Wedson\Google Drive\dev\DotNet\EntityFramework6\EntityFramework6\bin\Debug\EntityFramework6.exe.config
+C:\Users\Wedson\Google Drive\dev\DotNet\EntityFramework6\EntityFramework6\obj\x86\Debug\EntityFramework6.exe
+C:\Users\Wedson\Google Drive\dev\DotNet\EntityFramework6\EntityFramework6\obj\x86\Debug\EntityFramework6.pdb
+C:\Users\Wedson\Google Drive\dev\DotNet\EntityFramework6\EntityFramework6\bin\Debug\EntityFramework6.exe
+C:\Users\Wedson\Google Drive\dev\DotNet\EntityFramework6\EntityFramework6\bin\Debug\EntityFramework6.pdb
+C:\Users\Wedson\Google Drive\dev\DotNet\EntityFramework6\EntityFramework6\bin\Debug\EntityFramework.dll
+C:\Users\Wedson\Google Drive\dev\DotNet\EntityFramework6\EntityFramework6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wedson\Google Drive\dev\DotNet\EntityFramework6\EntityFramework6\bin\Debug\EntityFramework.xml
+C:\Users\Wedson\Google Drive\dev\DotNet\EntityFramework6\EntityFramework6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wedson\Google Drive\dev\DotNet\EntityFramework6\EntityFramework6\obj\x86\Debug\EntityFramework6.csprojResolveAssemblyReference.cache
+C:\Users\Wedson\Google Drive\dev\DotNet\EntityFramework6\EntityFramework6\obj\x86\Debug\EntityFramework6.Migrations.Versao1.resources
+C:\Users\Wedson\Google Drive\dev\DotNet\EntityFramework6\EntityFramework6\obj\x86\Debug\EntityFramework6.csproj.GenerateResource.Cache
+C:\Users\Wedson\SkyDrive\Documentos\dev\DotNet\EntityFramework6\EntityFramework6\bin\Debug\EntityFramework6.exe.config
+C:\Users\Wedson\SkyDrive\Documentos\dev\DotNet\EntityFramework6\EntityFramework6\obj\x86\Debug\EntityFramework6.exe
+C:\Users\Wedson\SkyDrive\Documentos\dev\DotNet\EntityFramework6\EntityFramework6\obj\x86\Debug\EntityFramework6.pdb
+C:\Users\Wedson\SkyDrive\Documentos\dev\DotNet\EntityFramework6\EntityFramework6\bin\Debug\EntityFramework6.exe
+C:\Users\Wedson\SkyDrive\Documentos\dev\DotNet\EntityFramework6\EntityFramework6\bin\Debug\EntityFramework6.pdb
+C:\Users\Wedson\SkyDrive\Documentos\dev\DotNet\EntityFramework6\EntityFramework6\bin\Debug\EntityFramework.dll
+C:\Users\Wedson\SkyDrive\Documentos\dev\DotNet\EntityFramework6\EntityFramework6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wedson\SkyDrive\Documentos\dev\DotNet\EntityFramework6\EntityFramework6\bin\Debug\EntityFramework.xml
+C:\Users\Wedson\SkyDrive\Documentos\dev\DotNet\EntityFramework6\EntityFramework6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wedson\SkyDrive\Documentos\dev\DotNet\EntityFramework6\EntityFramework6\obj\x86\Debug\EntityFramework6.csprojResolveAssemblyReference.cache
+C:\Users\Wedson\SkyDrive\Documentos\dev\DotNet\EntityFramework6\EntityFramework6\obj\x86\Debug\EntityFramework6.Migrations.Versao1.resources
+C:\Users\Wedson\SkyDrive\Documentos\dev\DotNet\EntityFramework6\EntityFramework6\obj\x86\Debug\EntityFramework6.csproj.GenerateResource.Cache
